@@ -1,0 +1,6 @@
+{
+  "mongodb": "${MONGODB_URL:mongodb://mongodb/hydrus-registry}",
+  "server": {
+    "port": "${PORT:5000}"
+  }
+}
